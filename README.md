@@ -1,8 +1,8 @@
-# Níveis de carreira de um(a) Front-End Engineer na Concrete
+# Níveis de carreira de um(a) Front-End Engineer
 
-## Front-End Engineer Júnior
+## Front-End Engineer Básico
 
-Requisitos para Front-End Engineer Júnior:
+Requisitos para Front-End Engineer Básico:
 
 * HTML (codificar uma estrutura básica)
 * CSS (["codar" um layout](http://pt-br.learnlayout.com/), conseguir copiar algum site ou componente simples é um bom indicador do seu nível de conhecimento)
@@ -15,11 +15,11 @@ Requisitos para Front-End Engineer Júnior:
 
 Não corra durante os estudos, pratique muito tudo o que você aprender até ter coragem de falar que sabe aquilo!
 
-Caso você já domine essas coisas, talvez você já seja um(a) **Front-End Engineer Pleno**!
+Caso você já domine essas coisas, talvez você já seja um(a) **Front-End Engineer Intermediário**!
 
-## Front-End Engineer Pleno
+## Front-End Engineer Intermediário
 
-Requisitos para Front-End Engineer Pleno:
+Requisitos para Front-End Engineer Intermediário:
 
 * HTML (entender sobre Semântica e Acessibilidade)
 * Escalabilidade
@@ -35,11 +35,11 @@ Requisitos para Front-End Engineer Pleno:
 * Performance (tanto do [JavaScript](https://www.smashingmagazine.com/2012/11/writing-fast-memory-efficient-javascript/), quanto do CSS, [sim do CSS](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Writing_efficient_CSS))
 * SEO (estruturação do HTML, resolver a listinha do PageSpeed, Schema.org)
 
-Se você já domina tudo isso, então você deve estar no nível **Sênior** ou chegando lá.
+Se você já domina tudo isso, então você deve estar no nível **Avançado** ou chegando lá.
 
-## Front-End Engineer Sênior
+## Front-End Engineer Avançado
 
-Requisitos para Front-End Engineer Sênior:
+Requisitos para Front-End Engineer Avançado:
 
 * Domina os Paradigmas de Programação e boas práticas com JavaScript
 * Entende os problemas e limitações do JavaScript, CSS e HTML
