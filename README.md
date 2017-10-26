@@ -53,4 +53,4 @@ Requisitos para Front-End Engineer Avançado:
 * Domina os fluxos de trabalho com Git
 * Você entende os custos ($$$) do Front-End (Arquitetura, o que problemas na interface podem gerar negativamente para uma empresa, etc)
 * Domina o ambiente do navegador (Render, Painting e etc).
-* Entender sobre o protocolo Http e o que o cerca ( Segurança, three-way handshake do TCP, como funciona uma requisição)
+* Entende sobre o protocolo HTTP e o que o cerca ( Segurança, three-way handshake do TCP, como funciona uma requisição)
