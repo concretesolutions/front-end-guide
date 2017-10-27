@@ -43,7 +43,7 @@ Requisitos para Front-End Engineer Avançado:
 
 * Domina os Paradigmas de Programação e boas práticas com JavaScript
 * Entende os problemas e limitações do JavaScript, CSS e HTML
-* Consegue criar aplicações 100% com JavaScript
+* Consegue criar aplicações 100% com JavaScript e deployar
 * Consegue conversar de igual para igual com um Dev Back-End
 * Domina os Padrões de Projetos
 * Domina pré-processadores e metodologias CSS (como BEM, SMACSS, Atomic ou outras) e boas práticas
@@ -52,3 +52,5 @@ Requisitos para Front-End Engineer Avançado:
 * Domina testes unitários
 * Domina os fluxos de trabalho com Git
 * Você entende os custos ($$$) do Front-End (Arquitetura, o que problemas na interface podem gerar negativamente para uma empresa, etc)
+* Domina o ambiente do navegador (Render, Painting e etc).
+* Entende sobre o protocolo HTTP e o que o cerca ( Segurança, three-way handshake do TCP, como funciona uma requisição)
