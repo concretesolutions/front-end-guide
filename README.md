@@ -6,7 +6,7 @@ Requisitos para Front-End Engineer Básico:
 
 * HTML (codificar uma estrutura básica)
 * CSS (["codar" um layout](http://pt-br.learnlayout.com/), conseguir copiar algum site ou componente simples é um bom indicador do seu nível de conhecimento)
-* Lógica de Programação
+* Lógica de Programação (Aprender e entender como funcionam os algorítmos, variáveis, tipos de dados, estruturas de controle, de decisão e repetição, operadores aritméticos e etc)
 * JavaScript (inserir um script em uma tela, utilizar libs, criar pequenas coisas)
 * Tooling (você vai precisar de algo como o [Webpack](https://webpack.github.io/), [GulpJS](http://gulpjs.com/), [NPM Scripts](https://docs.npmjs.com/misc/scripts))
 * Gerenciamento de dependências ([NPM](https://npmjs.org/) e [Yarn](https://yarnpkg.com/pt-BR/))
